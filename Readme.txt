@@ -1,0 +1,1 @@
+Please find the train and test csv files of MBTI dataset and ipynb files for GRU , Bidirectional GRU and Bidirectional LSTM models trained on train.csv files.
